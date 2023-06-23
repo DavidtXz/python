@@ -1,0 +1,48 @@
+************Selección por formas*********
+HOME
+x 27.4 
+y 0 
+z 6.5
+home = [27.4, 0, 6.5]
+homeUp = [19, 0, 14.9]
+
+PUNTO DE RECOGIDA DE CUALQUIER FIGURA
+x 26.6 
+y 0
+z 0
+fig = [26.6, 0, 0]
+
+PLACE FIGURA 1
+x 13.3
+y 23
+z 0
+triangulo = [13.3, 23, 0]
+trianguloUp = [9.5, 16.45, 14.9]
+
+PLACE FIGURA 2
+x 0 
+y 26.6
+z 0
+cuadrado = [0, 26.6, 0]
+cuadradoUp = [0, 19, 14.9]
+
+PLACE FIGURA 3
+x -13.3
+y 23 
+z 0
+rectangulo = [-13.3, 23, 0]
+rectanguloUp = [-9.5, 16.45, 14.9]
+
+PLACE FIGURA 4
+x -23
+y 13.3
+z 0
+rombo = [-23, 13.3, 0]
+romboUp = [-16.45, 9.5, 14.9]
+
+PLACE FIGURA 5
+x -26.6
+y 0
+z 0
+circulo = [-26.6, 0, 0]
+circuloUp = [-19, 0, 14.9]
